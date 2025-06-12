@@ -22,7 +22,6 @@
 
 ### 📫 Conectemos
 - 🌍 Web: próximamente en [private]
-- 💬 Telegram: [@lanzalocode](private)
 
 ---
 

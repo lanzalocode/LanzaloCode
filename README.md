@@ -1,8 +1,8 @@
 # 👋 Hola, soy LanzaloCode
 
-🎯 Desarrollador Fullstack especializado en **Laravel**, **React Native** y **Firebase**.  
+🎯 Desarrollador especializado en **Astro Framework**, **WordPress**, **Laravel**, **React Native** y **Supabase**.  
 🚀 Actualmente construyendo soluciones como **LanzaloBarber**, un sistema inteligente de gestión para barberías.  
-💡 Apasionado por crear herramientas digitales que mejoran la vida de negocios reales.
+💡 Apasionado por crear herramientas digitales que mejoran la vida de negocios.
 
 ---
 

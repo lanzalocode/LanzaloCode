@@ -1,16 +1,15 @@
-# 👋 Hola, soy LanzaloCode
+# 👋 Hola, somos LanzaloCode
 
-🎯 Desarrollador especializado en **Astro Framework**, **WordPress**, **Laravel**, **React Native** y **Supabase**.  
+🎯 StartUp Nueva especializada en **Astro Framework**, **WordPress**, **Laravel**, **PHP**, **React**, **Supabase**, **Chatbots & AI**.  
 🚀 Actualmente construyendo soluciones como **LanzaloBarber**, un sistema inteligente de gestión para barberías.  
-💡 Apasionado por crear herramientas digitales que mejoran la vida de negocios.
+💡 Apasionado por crear herramientas digitales que mejoran la vida de Empresas, Entidades y negocios.
 
 ---
 
 ### 🧰 Tech Stack
-- ⚙️ Backend: Laravel, PHP, MySQL, PostgreSQL, Supabase, Neon.tech
-- 📱 Mobile: React Native (Conexion WebView + Notificaciones Push)
-- ☁️ Cloud: Firebase, Hostinger Cloud, Docker
-- 🛠️ Otros: Git, GitHub Actions, Boostrap, Astro
+- ⚙️ Backend: Laravel, PHP, Nodejs, MySQL, PostgreSQL, Supabase, Neon.tech
+- ☁️ Cloud: VPS, Ubuntu Server, Windows Server, Hostinger Cloud, Docker, Deploy con Coolify
+- 🛠️ Otros: Git, GitHub, Boostrap CSS, Tailwind CSS, Javascript, PM2.
 
 ---
 
@@ -21,8 +20,9 @@
 ---
 
 ### 📫 Conectemos
-- 🌍 Web: próximamente en [private]
+- 🌍 Web: próximamente.
+- 📞 WhatsApp: próximamente.
 
 ---
 
-> "Lanza tus ideas. Codificamos tu visión."
+> "Seguridad y desarrollo que despegan tu negocio."

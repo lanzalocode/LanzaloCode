@@ -14,7 +14,7 @@
 ---
 
 ### 📌 Proyectos destacados
-- **LanzaloBarber** – Gestión integral de citas, pagos, promociones y clientes mediante un sistema web para Barberías.
+- **LanzaloBarber** – Gestión integral de citas, pagos, recordatorios y clientes mediante un sistema web para Barberías.
 - **ECR 2025** – Evaluación educativa regional en Laravel + Supabase
 
 ---
